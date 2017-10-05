@@ -1,0 +1,4 @@
+****WEB SERVICES****
+UDDI stands for Universal Description, Discovery, and Integration.
+WSDL stands for Web Services Description Language;
+SOAP (Simple Object Access Protocol)
